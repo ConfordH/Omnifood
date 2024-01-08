@@ -1,6 +1,6 @@
 # Omnifood - AI-Powered Meal Planning and Delivery
 
-![Omnifood Logo](path/to/omnifood-logo.png)
+![Omnifood hero section](./img/preview.png)
 
 ## What the Project Does
 
